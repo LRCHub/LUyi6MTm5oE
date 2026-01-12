@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "好きだよ",
+  "base_artist": "まるり",
+  "createdAt": "2026-01-12T15:39:57.683533Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "好きだよ。〜100回の後悔〜 - アコースティック ver.",
+      "artist": "Sonar Pocket",
+      "has_synced": false,
+      "path": "select/01_好きだよ。〜100回の後悔〜_-_アコースティック_ver._Sonar_Pocket.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "好きだよ。～100回の後悔～ - English Ver．",
+      "artist": "Che'Nelle",
+      "has_synced": true,
+      "path": "select/02_好きだよ。~100回の後悔~_-_English_Ver._Che'Nelle.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "好きだよ。〜100回の後悔〜",
+      "artist": "Sonar Pocket",
+      "has_synced": true,
+      "path": "select/03_好きだよ。〜100回の後悔〜_Sonar_Pocket.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "好きだよ。~100回の後悔~ (English Ver.)",
+      "artist": "Che'Nelle",
+      "has_synced": true,
+      "path": "select/04_好きだよ。~100回の後悔~_(English_Ver.)_Che'Nelle.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "好きだよ。~100回の後悔~",
+      "artist": "Che'Nelle",
+      "has_synced": true,
+      "path": "select/05_好きだよ。~100回の後悔~_Che'Nelle.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "好きだよ",
+      "artist": "まるり",
+      "has_synced": false,
+      "path": "select/pl_01_好きだよ_まるり.txt"
+    }
+  ]
+}
